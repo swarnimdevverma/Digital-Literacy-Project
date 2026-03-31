@@ -21,4 +21,5 @@ This Digital Literacy Portfolio project covers key skills like creating an onlin
 - report → Final project report  
 
 ## 🔗 Links
-(Google Form link will go here later)
+Google Form- https://docs.google.com/forms/d/e/1FAIpQLSc8fttRkHMBrSZIZF588MyHt5sXNaYrfcPd1B8PIdl_0w5EBA/viewform?usp=publish-editor
+LinkedIn- www.linkedin.com/in/swarnim-verma-a1aa0b3bb
