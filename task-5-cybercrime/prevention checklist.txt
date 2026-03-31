@@ -1,0 +1,16 @@
+Stay Safe Online Checklist
+
+- Do not click on suspicious links in emails or messages
+- Always verify the sender before sharing any personal information
+- Use strong and unique passwords for different accounts
+- Enable two-factor authentication (2FA) wherever possible
+- Avoid using public Wi-Fi for logging into important accounts
+- Regularly update your apps and devices for security patches
+- Never share OTPs, PINs, or banking details with anyone
+- Double-check UPI IDs before making any payment
+- Avoid scanning unknown QR codes for payments
+- Use official apps and websites for financial transactions
+
+Reporting Cybercrime:
+- National Cyber Crime Portal: https://cybercrime.gov.in
+- Helpline Number: 1930
