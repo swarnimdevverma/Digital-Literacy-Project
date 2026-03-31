@@ -4,8 +4,8 @@
 
 ## 👤 Student Details
 Name: Swarnim Verma  
-Registration Number: YOUR_REG_NO  
-Branch: YOUR_BRANCH  
+Registration Number: 25BAI10183 
+Branch: Computer Science ( AI ML )
 Year: 1st Year  
 
 ## 📌 Project Description
